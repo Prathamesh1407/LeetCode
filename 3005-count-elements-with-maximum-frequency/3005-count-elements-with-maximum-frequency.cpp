@@ -11,8 +11,8 @@ public:
         int ans=0;
         for(auto val:m)
         {
-            if(val.second==maxCount) ans+=maxCount;
+            if(val.second==maxCount) ans++;
         }
-        return ans;
+        return ans*maxCount;
     }
 };
