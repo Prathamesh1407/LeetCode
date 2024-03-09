@@ -1,6 +1,8 @@
 class Solution {
 public:
     int getCommon(vector<int>& nums1, vector<int>& nums2) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int i=0,j=0;
         while(i<nums1.size() && j<nums2.size())
         {
