@@ -2,7 +2,8 @@ class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
         
-        
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         
         vector<int>ans;
         unordered_map<int,int>m;
