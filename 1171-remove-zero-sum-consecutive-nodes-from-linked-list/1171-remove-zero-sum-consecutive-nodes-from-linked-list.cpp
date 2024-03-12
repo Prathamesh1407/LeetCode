@@ -11,6 +11,8 @@
 class Solution {
 public:
     ListNode* removeZeroSumSublists(ListNode* head) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         unordered_map<int,ListNode*>m;
         
         ListNode* dummyNode=new ListNode(-1);
