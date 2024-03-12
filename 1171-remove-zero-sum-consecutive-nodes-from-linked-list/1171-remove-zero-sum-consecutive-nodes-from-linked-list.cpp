@@ -25,14 +25,13 @@ public:
             if(m.find(pSum)!=m.end())
             {
                 ListNode* start=m[pSum];
-                ListNode* temp=start;
+                ListNode* temp=start->next;
                 int newpSum=pSum;
                 while(temp!=head)
                 {
-                    
-                    temp=temp->next;
                     newpSum+=temp->val;
-                    if(temp!=head) m.erase(newpSum);
+                    m.erase(newpSum);
+                    temp=temp->next;
                 }
                 start->next=head->next;
             }
