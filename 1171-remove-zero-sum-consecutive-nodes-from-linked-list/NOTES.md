@@ -1,1 +1,1 @@
-​
+​Create A map enter prefix sum and Node address , add prefix sum only if it wasn't present before in map and if it is present then take that Node address in start node and while it is not equal to head delete it .
