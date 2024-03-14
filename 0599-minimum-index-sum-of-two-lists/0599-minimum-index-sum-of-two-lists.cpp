@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<string> findRestaurant(vector<string>& list1, vector<string>& list2) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         unordered_map<string,int>m,p;
         int i=0;
         vector<string>ans;
