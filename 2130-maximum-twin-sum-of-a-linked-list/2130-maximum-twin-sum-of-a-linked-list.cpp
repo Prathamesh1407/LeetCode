@@ -33,6 +33,8 @@ class Solution {
     }
 public:
     int pairSum(ListNode* head) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         if(head->next==NULL) return head->val; 
         ListNode*h1=head;
         ListNode* middle=getMiddle(head);
