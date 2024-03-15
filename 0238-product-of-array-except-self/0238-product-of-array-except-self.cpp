@@ -15,7 +15,6 @@ public:
         {
             ans[i]=ans[i]*post;
             post*=nums[i];
-            
         }
         return ans;
     }
