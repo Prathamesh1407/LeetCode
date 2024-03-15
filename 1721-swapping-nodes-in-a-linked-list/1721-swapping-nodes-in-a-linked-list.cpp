@@ -47,3 +47,7 @@ public:
         return head;
     }
 };
+
+
+//2nd Approach  1-Pass Sol
+//find k th element store the Node keep temp on kth->next , put p2 on head traverse both until end p2 will be on n-k th node and swap the nodes
