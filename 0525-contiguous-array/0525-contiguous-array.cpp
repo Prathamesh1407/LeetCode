@@ -7,7 +7,7 @@ public:
         if(nums.size()==1) return 0;
         unordered_map<int,int>m;
         //m [count,index]
-        m[0]=-1;
+        m[0]=-1; //for - When the zero count would appear the index should be calculated from first index i-(-1)
         int c=0,max_length=0;
         int n=nums.size();
         for(int i=0;i<n;i++)
