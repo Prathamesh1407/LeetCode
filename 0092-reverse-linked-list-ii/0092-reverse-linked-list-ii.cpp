@@ -11,6 +11,8 @@
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int l, int r) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         if(head==NULL || l==r || head->next==NULL) return head;
         ListNode* curr=head,*p=head;
         int i=1;
