@@ -21,6 +21,8 @@ class Solution {
     }
 public:
     ListNode* rotateRight(ListNode* head, int k) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         if(head==NULL || k==0 || head->next==NULL) return head;
         int l=getLength(head);
         k=k%l;
