@@ -1,6 +1,10 @@
 class Solution {
+    
 public:
     int findMaxLength(vector<int>& nums) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        if(nums.size()==1) return 0;
         unordered_map<int,int>m;
         //m [count,index]
         m[0]=-1;
