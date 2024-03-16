@@ -27,7 +27,7 @@ public:
             curr=curr->next;
             i++;
         }
-        ListNode* start=curr,*k=start,*prev=NULL,*nxt=NULL;
+        ListNode* start=curr,*prev=NULL,*nxt=NULL;
         while(start!=NULL && i!=r+1)
         {
             nxt=start->next;
@@ -41,7 +41,7 @@ public:
             head=prev;
         }
         else p->next=prev;
-        k->next=nxt;
+        curr->next=nxt;
         return head;  
     }
 };
