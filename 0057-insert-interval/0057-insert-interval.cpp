@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newI) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         vector<vector<int>>ans;
         int start=newI[0],end=newI[1];
         int i=0,n=intervals.size();
