@@ -21,6 +21,8 @@ class Solution {
     }
 public:
     vector<ListNode*> splitListToParts(ListNode* head, int k) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         vector<ListNode*>ans(k,NULL);
         int l=getLength(head);
         int inEvery=l/k;
