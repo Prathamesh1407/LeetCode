@@ -14,6 +14,7 @@ public:
         int idle_slots=(v[0]-1)*n;
         for(int i=1;i<26;i++)
         {
+            if(v[i]==0) break;
             idle_slots-=min(v[i],v[0]-1);
         }
         
