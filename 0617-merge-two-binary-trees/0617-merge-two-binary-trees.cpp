@@ -30,6 +30,8 @@ class Solution {
     }
 public:
     TreeNode* mergeTrees(TreeNode* root1, TreeNode* root2) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         TreeNode* root3=NULL;
         merge(root1,root2,root3);
         return root3;
