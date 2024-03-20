@@ -14,11 +14,16 @@ public:
     TreeNode* searchBST(TreeNode* root, int val) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
-        if(root==NULL) return NULL;
-        if(root->val==val) return root;
-        TreeNode* left = searchBST(root->left,val);
-        TreeNode* right=searchBST(root->right,val);
-        if(left!=NULL) return left;
-        else return right;
+        while(root)
+        {
+            if(root->val==val) return root;
+            
+            if(root->val>val)
+            {
+                root=root->left;
+            }
+            else root=root->right;
+        }
+        return NULL;
     }
 };
