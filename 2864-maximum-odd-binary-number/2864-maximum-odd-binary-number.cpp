@@ -1,6 +1,8 @@
 class Solution {
 public:
     string maximumOddBinaryNumber(string s) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int one=0,zero;
         for(auto val:s)
         {
