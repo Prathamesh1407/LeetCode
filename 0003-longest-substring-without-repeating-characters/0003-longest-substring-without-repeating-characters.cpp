@@ -1,6 +1,8 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         unordered_set<char>st;
         int left=0,right=0,res=0;
         while(right<s.length())
