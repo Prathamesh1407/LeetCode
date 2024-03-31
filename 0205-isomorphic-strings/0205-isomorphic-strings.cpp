@@ -1,6 +1,8 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         unordered_map<char,char>m,p;
         int i=0;
         while(i<s.length())
