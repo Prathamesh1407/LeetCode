@@ -1,6 +1,8 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         vector<int>v(26,0);
         
         for(auto val:s)
