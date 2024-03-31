@@ -14,6 +14,8 @@ class Solution {
     }
 public:
     vector<vector<int>> generate(int n) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         if(n==1) return {{1}};
         vector<vector<int>>v;
         for(int i=1;i<=n;i++)
