@@ -1,6 +1,8 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         if(strs.size()==0) return "";
         string prefix=strs[0];
         
