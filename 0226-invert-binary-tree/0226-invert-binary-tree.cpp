@@ -12,6 +12,8 @@
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         if(root==NULL) return NULL;
         
         invertTree(root->left);
