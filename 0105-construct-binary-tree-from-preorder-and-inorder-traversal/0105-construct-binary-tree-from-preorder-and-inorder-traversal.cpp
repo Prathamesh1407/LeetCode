@@ -26,7 +26,7 @@ class Solution {
         
         TreeNode* root=new TreeNode(element);
         int pos=findPos(in,s,e,element);
-        if(pos==-1) return NULL;
+        //if(pos==-1) return NULL;
         cout<<element<<" "<<pos<<" "<<s<<" "<<e<<endl;
         
         root->left=solve(pre,in,ind,s,pos-1);
