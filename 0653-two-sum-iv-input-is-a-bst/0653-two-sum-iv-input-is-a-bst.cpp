@@ -9,6 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+//Approach 1 abs(root-target) find it in BST for every node TC O(n2)
 class Solution {
     void inorder(TreeNode* root,vector<int>&ans)
     {
