@@ -9,6 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+//T.C : O(n*logn)
 class Solution {
     int findPos(vector<int>& in,int s,int e,int x)
     {
