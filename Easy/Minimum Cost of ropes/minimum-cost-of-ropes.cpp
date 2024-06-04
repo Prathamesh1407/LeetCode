@@ -2,7 +2,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
+//T.C : O(n*logn)
+//S.C : O(n)
 // } Driver Code Ends
 class Solution
 {
