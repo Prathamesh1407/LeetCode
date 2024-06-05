@@ -21,6 +21,8 @@ class compare
 class Solution {
 public:
     vector<int> smallestRange(vector<vector<int>>& nums) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         vector<int>ans;
         priority_queue<Node*,vector<Node*>,compare>pq;
         int maxi=INT_MIN,mini=INT_MAX;
