@@ -4,38 +4,25 @@ using namespace std;
 
 // } Driver Code Ends
 class Solution {
-    bool isCycleBFS(int n,vector<int>adjList[],unordered_map<int,bool>&visited,int node)
+    bool isCycleDFS(unordered_map<int, bool> &visited, int parent,vector<int>adjList[], int node)
+{
+    visited[node] = 1;
+    for (auto val : adjList[node])
     {
-        
-        unordered_map<int,int>parent;
-        queue<int>q;
-        q.push(node);
-        visited[node]=1;
-        parent[node]=-1; //1 st node won't be having parent node
-    
-        while(!q.empty())
+        if (visited[val] == false)
         {
-            int frontNode=q.front();
-            q.pop();
-    
-            for(auto val:adjList[frontNode])
-            {
-                if(visited[val] && parent[frontNode]!=val )
-                {
-                    return true;
-                }
-                else if(!visited[val])
-                {
-                    q.push(val);
-                    visited[val]=1;
-                    parent[val]=frontNode;
-                }
-            }
+            bool ans = isCycleDFS(visited, node, adjList, val);
+            if (ans == true)
+                return true;
         }
-    
-        return false;
-    
+        else if (parent != val)
+        {
+            // present
+            return true;
+        }
     }
+    return false;
+}
   public:
     // Function to detect cycle in an undirected graph.
     bool isCycle(int n, vector<int> adj[]) {
@@ -46,7 +33,7 @@ class Solution {
         {
             if(!visited[i]) 
             {
-                bool ans=isCycleBFS(n,adj,visited,i);
+                bool ans=isCycleDFS(visited,-1,adj,i);
                 if(ans==true) 
                 {
                     i=-1;
