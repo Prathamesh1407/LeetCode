@@ -31,6 +31,8 @@ class Solution {
     }
 public:
     vector<vector<int>> criticalConnections(int n, vector<vector<int>>& connections) {
+    ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         unordered_map<int,list<int>>adjList;
         
         for(auto val:connections)
