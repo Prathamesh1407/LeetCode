@@ -23,7 +23,7 @@ class Solution {
                 dfs(val,node,tin,low,adj,points,visited);
                 low[node]=min(low[node],low[val]);
                 
-                //check for articulation point
+                //check for articulation point : the adj point should reach before the node and if it doesn't it's a point
                 
                 if(low[val]>=tin[node] && parent!=-1)
                 {
@@ -36,6 +36,7 @@ class Solution {
                 low[node]=min(low[node],tin[val]);
             }
         }
+	//This condition is for parent if parent having more than 1 child then it is an articulation point
         if(child>1 && parent==-1) points[node]=1;
     }
   public:
