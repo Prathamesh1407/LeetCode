@@ -1,3 +1,5 @@
+//T.C : O(n*m) + O(n*m)*4 ==> O(n*m)  n*m if all oranges are fresh
+//S.C : O(n*m)
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
