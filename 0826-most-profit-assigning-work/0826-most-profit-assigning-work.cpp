@@ -10,17 +10,22 @@ public:
         
         sort(worker.begin(),worker.end());
         
-        int i=0,j=0,ans=0;
-        priority_queue<int>pq;
+        int i=0,j=0,ans=0,maxi=0;
+        //priority_queue<int>pq;
         while(j<worker.size())
         {
             
             while(i<profit.size() && worker[j]>=v[i].first)
             {
-                pq.push(v[i].second);
+                //pq.push(v[i].second);
+                maxi=max(maxi,v[i].second);
                 i++;
             }
-            if(!pq.empty()) ans+=pq.top();
+            // if(!pq.empty()) 
+            // {
+            //     ans+=pq.top();
+            // }
+                ans+=maxi;
             j++;
         }
         return ans;
