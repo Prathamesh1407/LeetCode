@@ -1,5 +1,24 @@
 //{ Driver Code Starts
 
+//T.C : O(2N)
+//S.C : O(1)
+//This sol works for if array contains zeros and positive , negative numbers
+/*
+	int left=0,right=0,sum=a[0],len=0;
+        
+        while(right<n)
+        {
+            while(left<=right && sum>k)
+            {
+                sum-=a[left];
+                left++;
+            }
+            if(sum==k) len=max(len,right-left+1);
+            right++;
+            sum+=a[right];
+        }
+        return len;
+*/
 //T.C : if ordered map O(N log N) if unordered no collisions O(N) if collisions O(N2)
 //S.C : O(N)
 #include <bits/stdc++.h>
@@ -9,6 +28,7 @@ using namespace std;
 // } Driver Code Ends
 class Solution{
     public:
+//This sol works for if array contains zeros and positive numbers
     int lenOfLongSubarr(int a[],  int n, int k) 
     { 
         // Complete the function
