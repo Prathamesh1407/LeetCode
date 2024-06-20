@@ -1,4 +1,7 @@
 //{ Driver Code Starts
+
+//T.C : if ordered map O(N log N) if unordered no collisions O(N) if collisions O(N2)
+//S.C : O(N)
 #include <bits/stdc++.h>
 using namespace std;
 
