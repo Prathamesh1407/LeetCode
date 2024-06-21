@@ -1,3 +1,5 @@
+//TC : O(2*N*M)
+//SC : O(1)
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& a) {
