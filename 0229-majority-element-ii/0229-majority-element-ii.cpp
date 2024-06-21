@@ -1,3 +1,5 @@
+//TC : O(2N)
+//SC : O(1)
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& v) {
