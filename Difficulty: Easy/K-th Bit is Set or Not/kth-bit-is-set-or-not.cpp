@@ -17,7 +17,13 @@ class Solution
     {
         // Your code here
         // It can be a one liner logic!! Think of it!!
-        return ((n>>(k)) & 1);
+        
+        
+        //1st Approach
+        //return ((n>>(k)) & 1);
+        
+        //2nd Approach
+        return ((1<<k)&n);
     }
 };
 
