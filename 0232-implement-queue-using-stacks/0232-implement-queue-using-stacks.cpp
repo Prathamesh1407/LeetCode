@@ -1,14 +1,15 @@
 class MyQueue {
 public:
     stack<int>ip,op;
+    int peekEl=-1;
     MyQueue() {
         
     }
-    
     void push(int x) {
+        //so the first element will be tracked for O(1) peek
+        if(ip.empty()==true) peekEl=x;
         ip.push(x);
     }
-    
     int pop() {
         if(op.empty()==false)
         {
@@ -28,19 +29,13 @@ public:
             return x;
         }
     }
-    
     int peek() {
-        if(op.empty()==false)
+        if(op.empty()==true)
         {
-            return op.top();
+            return peekEl;
         }
         else
         {
-            while(ip.empty()==false)
-            {
-                op.push(ip.top());
-                ip.pop();
-            }
             return op.top();
         }
     }
