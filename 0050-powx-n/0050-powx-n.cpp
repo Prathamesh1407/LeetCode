@@ -14,10 +14,10 @@ public:
             }
             else
             {
-                n/=2;
+                n=n>>1;
                 x=x*x;
             }
         }
-        return m>=0?ans:1/ans;
+        return m>=0?ans:1.0/ans;
     }
 };
