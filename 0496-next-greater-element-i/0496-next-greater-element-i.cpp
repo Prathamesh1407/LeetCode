@@ -1,3 +1,5 @@
+//TC : O(nums1.size + nums2.size)
+//SC : O(nums1.size + nums2.size)
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
