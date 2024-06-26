@@ -70,8 +70,8 @@ public:
             long long nextSmallerCount=right[i]-i;
             long long previousSmallerCount=i-left[i];
             long long totalWays=nextSmallerCount*previousSmallerCount;
-            long long totalSum=totalWays*arr[i];
-            sum=(sum+totalSum)%mod;
+
+            sum=(sum+(totalWays*arr[i]))%mod;
         }
         return sum;
     }
