@@ -9,14 +9,14 @@ public:
     void makeMostFrequent(int key)
     {
         dll.erase(mp[key].first); // Delete with the help of iterator
-        dll.push_front(key); // push it on the front as it is frequent one
+        dll.push_front(key); // push it on the front as it is recent one
         
         mp[key].first=dll.begin(); // As now the address is changed
     }
     int get(int key) {
         if(mp.find(key)!=mp.end())
         {
-            //Key is Found so make it most frequent and return the value
+            //Key is Found so make it most recent and return the value
             makeMostFrequent(key);
             return mp[key].second;
         }
@@ -33,7 +33,7 @@ public:
         else
         {
             //Dont't think about the capacity now
-            dll.push_front(key); //Push at the start coz most frequent element
+            dll.push_front(key); //Push at the start coz most recent element
             mp[key]={dll.begin(),value}; //Push entry in the map
             makeMostFrequent(key);
             cap--;
@@ -41,7 +41,7 @@ public:
         if(cap<0)
         {
             mp.erase(dll.back()); //Delete the entry in map
-            dll.pop_back(); //Delete the Less frequent element
+            dll.pop_back(); //Delete the Less recent element
             cap++;
         }
         }
