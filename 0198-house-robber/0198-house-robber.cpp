@@ -16,21 +16,38 @@ public:
     int rob(vector<int>& nums) {
         int n=nums.size();
         vector<int>dp(n,-1);
-        //Memoization
-        //return solve(nums,n-1,dp);
+        // //Memoization
+        // return solve(nums,n-1,dp);
         
-        //Tabulation
-        dp[0]=nums[0];
+//         //Tabulation
+//         dp[0]=nums[0];
+//         for(int ind=1;ind<n;ind++)
+//         {
+//             int pick=nums[ind];
+//             if(ind>1) pick+=dp[ind-2];
+        
+//             //Not pick
+//             int notPick=0+dp[ind-1];
+
+//             dp[ind]=max(pick,notPick);
+//         }
+//         return dp[n-1];
+        
+        //Space Optimization
+        int prev2=0,prev=nums[0];
         for(int ind=1;ind<n;ind++)
         {
             int pick=nums[ind];
-            if(ind>1) pick+=dp[ind-2];
+            if(ind>1) pick+=prev2;
         
             //Not pick
-            int notPick=0+dp[ind-1];
+            int notPick=0+prev;
 
-            dp[ind]=max(pick,notPick);
+            int curri=max(pick,notPick);
+            prev2=prev;
+            prev=curri;
         }
-        return dp[n-1];
+        return prev;
+        
     }
 };
