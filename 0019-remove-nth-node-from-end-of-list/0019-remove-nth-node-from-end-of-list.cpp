@@ -19,7 +19,7 @@ public:
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
         
-        //Here we will be using the approach of Tortoise and hare move the fast pointer N times and then move the slow and fast by 1,so the fast already moves 2 times ahead of head the slow will reach to length-2 , so in this approach we won't need the length which was taking the O(len) extra
+        //Here we will be using the approach of Tortoise and hare move the fast pointer N times and then move the slow and fast by 1,so the fast already moves N times ahead of head the slow will reach to length-N , so in this approach we won't need the length which was taking the O(len) extra
         
         ListNode *fast=head,*slow=head;
         for(int i=0;i<n;i++) 
