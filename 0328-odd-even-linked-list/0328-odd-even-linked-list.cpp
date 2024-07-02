@@ -8,6 +8,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+//TC :O(N)
+//SC :O(1)
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
@@ -16,6 +18,7 @@ public:
         ListNode *odd=head,*even=head->next,*evenHead=head->next;
         
         //coz Even will be ahead of odd so if we apply the condition on even it will be also get applied for odd
+        //O(N/2)*2 because we are changing the 2 links 
         while(even!=NULL && even->next!=NULL)
         {
             odd->next=odd->next->next;
@@ -25,7 +28,7 @@ public:
             odd=odd->next;
             even=even->next;
         }
-        //Now join the odd to the even
+        //Now join the odd to the even =>  odd will be on the last odd node
         odd->next=evenHead;
         return head;
     }
