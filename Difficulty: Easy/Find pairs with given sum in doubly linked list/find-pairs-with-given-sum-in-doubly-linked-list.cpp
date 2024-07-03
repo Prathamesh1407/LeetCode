@@ -39,14 +39,16 @@ public:
         Node* left=head,*right=head;
         vector<pair<int, int>>ans;
         while(right->next!=NULL) right=right->next;
-        while(left && right && left->data<right->data)
+        while(left->data<right->data)
         {
             int sum=left->data+right->data;
             if(sum==target)
             {
                 ans.push_back({left->data,right->data});
+                right=right->prev;
+                left=left->next;
             }
-            if(sum<target) left=left->next;
+            else if(sum<target) left=left->next;
             else right=right->prev;
         }
         return ans;
