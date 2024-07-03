@@ -32,16 +32,16 @@ public:
         if(k==0) return head;
         
         tail->next=head;
-        k=len-k;
+        k=len-k-1;
         
-        ListNode*KthNode=tail;
+        ListNode*KthNode=head;
         //Now let's get the Kth Node
         
         while(k--)
         {
             KthNode=KthNode->next;
         }
-        cout<<KthNode->val;
+        
         head=KthNode->next;
         KthNode->next=NULL;
         return head;
