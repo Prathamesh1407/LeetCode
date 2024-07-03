@@ -104,18 +104,20 @@ public:
     Node * removeDuplicates(struct Node *head)
     {
         // Your code here
-        Node *h1=head;
-        Node* curr=h1;
-        while(curr->next!=NULL)
+        if(head==NULL || head->next==NULL) return head;
+        Node* curr=head;
+        while(curr && curr->next!=NULL)
         {
-            if(curr->next->data==curr->data)
+            Node *nextNode=curr->next;
+            while(nextNode && nextNode->data==curr->data)
             {
-                Node* deletedNode=curr->next;
-                curr->next=curr->next->next;
-                if(curr->next) curr->next->prev=curr;
+                Node *deletedNode=nextNode;
+                nextNode=nextNode->next;
                 delete deletedNode;
             }
-            else curr=curr->next;
+            curr->next=nextNode;
+            if(nextNode) nextNode->prev=curr;
+            curr=curr->next;
         }
         return head;
     }
