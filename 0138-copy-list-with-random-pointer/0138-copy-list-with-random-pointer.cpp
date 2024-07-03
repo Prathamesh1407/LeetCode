@@ -19,55 +19,41 @@ public:
     Node* copyRandomList(Node* head) {
         ios_base::sync_with_stdio(false);
         cin.tie(NULL);
-        Node* copyHead=NULL,*copyTail;
-        Node*orgNode=head;
-        while(orgNode)
+        
+        //Place the copy node next to the original node
+        // if org LL 7->13->11->10->1->null ==> 7->7c->13->13c->11->11c->10->10c->1->1c->null  c = copy node
+        Node* temp=head;
+        while(temp!=NULL)
         {
-            if(copyHead==NULL)
-            {
-                copyHead=new Node(orgNode->val);
-                copyTail=copyHead;
-            }
-            else
-            {
-                copyTail->next=new Node(orgNode->val);
-                copyTail=copyTail->next;    
-            }
-            orgNode=orgNode->next;
-        }
-        orgNode=head;
-        Node* cloneNode=copyHead,*nxt=NULL;
-        //Changing the links of the pointer
-        while(orgNode!=NULL)
-        {
-            nxt=orgNode->next;
-            orgNode->next=cloneNode;
-            orgNode=nxt;
-            
-            nxt=cloneNode->next;
-            cloneNode->next=orgNode;
-            cloneNode=nxt;
+            Node* newNode=new Node(temp->val);
+            newNode->next=temp->next;
+            temp->next=newNode;
+            temp=temp->next->next;
         }
         
-        //Place the random pointers
-        orgNode=head;
-        while(orgNode)
+        //Now place the random pointers
+        temp=head;
+        Node* copyNode=NULL;
+        while(temp!=NULL)
         {
-            orgNode->next->random=orgNode->random?orgNode->random->next:NULL;
-            orgNode=orgNode->next->next;
+            copyNode=temp->next;
+            if(temp->random!=NULL) copyNode->random=temp->random->next; //because the copied node is next to original node
+            else copyNode->random=NULL;
+            temp=temp->next->next;
         }
         
-        //Unlink the LL
-        orgNode=head;
-        cloneNode=copyHead;
-        while(orgNode)
+        //Now the separate the copied nodes from the original LL
+        temp=head;
+        Node* dummyNode=new Node(-1),*curr=dummyNode;
+        while(temp!=NULL)
         {
-            orgNode->next=cloneNode->next;
-            orgNode=orgNode->next;
+            copyNode=temp->next;
+            curr->next=copyNode;
+            temp->next=temp->next->next;
             
-            if(orgNode!=NULL) cloneNode->next=orgNode->next;
-            cloneNode=cloneNode->next;
+            temp=temp->next;
+            curr=curr->next;
         }
-        return copyHead;
+        return dummyNode->next;
     }
 };
