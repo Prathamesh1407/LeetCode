@@ -21,7 +21,7 @@ public:
         return s.find(goal)!=string::npos;
         */
         
-        //TC : O(N*M) as N is the length of string and M is the substring that we wanted to find
+        //TC : O(N*N)
         //SC : O(1)
         //A2:
         
