@@ -1,3 +1,5 @@
+//TC : O(N)
+//TC : O(256) //test cases can contains all valid ascii 
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
