@@ -1,5 +1,4 @@
-// TC : O(N + 123log123 + 122)
-// SC : O(123)
+
 class Solution {
     static bool compare(pair<char,int>&p1,pair<char,int>&p2)
     {
@@ -7,6 +6,8 @@ class Solution {
     }
 public:
     string frequencySort(string s) {
+        // TC : O(N + 123log123 + 122)
+        // SC : O(123)
         /*
         vector<pair<char,int>>v(123);
         
@@ -32,6 +33,9 @@ public:
         return ans;
         */
         
+        //TC : O(N + M*log(M)) => O(N),  where N is the number of characters in the string and M is the number of UNIQUE characters in the string, and in this case M <= min(62, N).
+        
+        //SC : O(1)
         priority_queue<pair<int,char>>pq;
         unordered_map<char,int>m;
         for(auto val:s)
