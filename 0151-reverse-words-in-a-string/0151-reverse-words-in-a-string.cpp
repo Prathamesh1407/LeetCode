@@ -20,7 +20,7 @@ public:
         return ans;
         */
         
-        //TC :O(N)
+        //TC :O(N*(Avg length of Word))
         //SC : O(1)
         int i=0,l=0,r=0;
         int n=s.length();
