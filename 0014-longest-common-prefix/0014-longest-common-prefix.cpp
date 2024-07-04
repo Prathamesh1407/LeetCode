@@ -29,6 +29,7 @@ public:
                 else ans+=prefix[j];
             }
             prefix=ans;
+            if(prefix=="") return prefix;
         }
         return prefix;
     }
