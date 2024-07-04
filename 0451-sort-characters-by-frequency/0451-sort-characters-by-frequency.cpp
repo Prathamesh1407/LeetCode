@@ -1,3 +1,5 @@
+// TC : O(N + 123log123 + 122)
+// SC : O(123)
 class Solution {
     static bool compare(pair<char,int>&p1,pair<char,int>&p2)
     {
@@ -5,6 +7,7 @@ class Solution {
     }
 public:
     string frequencySort(string s) {
+        /*
         vector<pair<char,int>>v(123);
         
         for(auto ch:s)
@@ -25,6 +28,29 @@ public:
             string temp(freq,ch);
             ans+=temp;
             
+        }
+        return ans;
+        */
+        
+        priority_queue<pair<int,char>>pq;
+        unordered_map<char,int>m;
+        for(auto val:s)
+        {
+            m[val]++;
+            
+        }
+        for(auto val:m)
+        {
+           pq.push({val.second,val.first});     
+        }
+        string ans="";
+        
+        while(!pq.empty())
+        {
+            auto temp=pq.top();
+            pq.pop();
+            string t(temp.first,temp.second);
+            ans+=t;
         }
         return ans;
     }
