@@ -1,7 +1,7 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        //TC :O(N)
+        //TC :O(N^2) //becaus at each time we are concatenating the string and as i will increase complexity will increase
         //SC : O(2N)
         /*
         string ans="",temp="";
