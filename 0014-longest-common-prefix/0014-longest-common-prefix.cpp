@@ -1,15 +1,4 @@
 class Solution {
-    string getCommonPart(string s1,string s2)
-    {
-        int n=min(s1.length(),s2.length());
-        string ans="";
-        for(int i=0;i<n;i++)
-        {
-            if(s1[i]!=s2[i]) return ans;
-            else ans+=s1[i];
-        }
-        return ans;
-    }
 public:
     string longestCommonPrefix(vector<string>& strs) {
         ios_base::sync_with_stdio(false);
@@ -32,9 +21,15 @@ public:
         
         for(int i=1;i<strs.size();i++)
         {
-            prefix=getCommonPart(prefix,strs[i]);
+            int n=min(prefix.length(),strs[i].length());
+            string ans="";
+            for(int j=0;j<n;j++)
+            {
+                if(prefix[j]!=strs[i][j]) break;
+                else ans+=prefix[j];
+            }
+            prefix=ans;
         }
         return prefix;
-        
     }
 };
