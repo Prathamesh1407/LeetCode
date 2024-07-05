@@ -1,3 +1,4 @@
+//TC : O(n*len of string) ~ O(30*3000)
 class Solution {
 public:
     string countAndSay(int n) {
