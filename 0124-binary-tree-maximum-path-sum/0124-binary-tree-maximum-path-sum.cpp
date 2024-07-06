@@ -14,6 +14,7 @@ class Solution {
     {
         if(root==NULL) return 0;
         int leftSum=max(0,solve(root->left,maxi));
+        // If any of the left or right subtree giving us negative values there no need to save them coz we wanted to store the maximum , save 0
         int rightSum=max(0,solve(root->right,maxi));
         maxi=max(maxi,leftSum+rightSum+root->val);
         return root->val + max(leftSum,rightSum);
