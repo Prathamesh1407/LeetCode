@@ -9,10 +9,12 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+//TC : O(N * log N) log N for multiset
+//SC : O(N+N)
 class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        map<int,map<int,multiset<int>>> m;
+        map<int,map<int,multiset<int>>> m; //vertical,level => nodes
         queue<pair<TreeNode*,pair<int,int>>>q; //node,vertical,level
         vector<vector<int>>ans;
         q.push({root,{0,0}});
