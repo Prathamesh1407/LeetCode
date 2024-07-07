@@ -45,6 +45,7 @@ public:
         int currDistance=0;
         while(!q.empty())
         {
+            //If currDistance==k means in the queue all the elements belongs to the distance K from target nodes
             if(currDistance==k) break;            
             currDistance++;
             
