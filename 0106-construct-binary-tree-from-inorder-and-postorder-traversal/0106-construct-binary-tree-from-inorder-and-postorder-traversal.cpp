@@ -41,7 +41,7 @@ class Solution {
         TreeNode* root=new TreeNode(element);
         int indInInorder=m[element];
         
-        root->right=solve2(postorder,inorder,ind,indInInorder+1,e,m);
+        root->right=solve2(postorder,inorder,ind,indInInorder+1,e,m);//Here 1st calls should be for right because we are starting from end and postorder is LRN 
         root->left=solve2(postorder,inorder,ind,s,indInInorder-1,m);
         
         return root;
