@@ -40,9 +40,9 @@ public:
     int amountOfTime(TreeNode* root, int start) {
         queue<TreeNode*>q;
         unordered_map<TreeNode*,bool>visited;
-        unordered_map<TreeNode*,TreeNode*>parent;
+        unordered_map<TreeNode*,TreeNode*>parent; //We can't traverse back so make a mapping of parents
         
-        TreeNode* targetNode=makeParent(root,parent,start);
+        TreeNode* targetNode=makeParent(root,parent,start); //while mapping also get the address of targetNode
         q.push(targetNode);
         visited[targetNode]=1;
         int count=0;
@@ -70,8 +70,8 @@ public:
                     visited[parent[frontNode]]=1;
                 }
             }
-            count++;
+            count++; //In each and every levels some elements will get infected so increase the counter
         }
-        return count-1;
+        return count-1; //but at last level the counter will increase but there is no any further levels so decrement the counter by 1
     }
 };
