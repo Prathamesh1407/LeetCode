@@ -60,7 +60,7 @@ public:
             
             TreeNode* p=findMin(root->right);
             // root->val=p->val;
-            // root->right=deleteNode(root->right,p->val);
+            // root->right=deleteNode(root->right,p->val); //This approach is better than below's , below's approach will increase the height of BST
             p->left=root->left;
             return root->right;
         }
