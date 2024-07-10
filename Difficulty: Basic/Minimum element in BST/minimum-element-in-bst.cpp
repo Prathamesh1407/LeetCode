@@ -111,18 +111,11 @@ class Solution {
         // Code here
         if(root==NULL) return -1;
         
-        int mini=root->data;
-        
-        while(root!=NULL)
+        while(root->left!=NULL)
         {
-            mini=min(mini,root->data);
-            if(root->left)
-            {
-                root=root->left;
-            }
-            else root=root->right;
+            root=root->left;
         }
-        return mini;
+        return root->data;
     }
 };
 
