@@ -25,7 +25,7 @@ class Solution {
         if(ind>=pre.size() || pre[ind]>maxi) return NULL;
         
         TreeNode* root=new TreeNode(pre[ind++]);
-        root->left=solve(pre,root->val,ind);
+        root->left=solve(pre,root->val,ind); // If we are going to left upper bound will be root->val
         root->right=solve(pre,maxi,ind);
         return root;       
     }
