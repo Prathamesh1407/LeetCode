@@ -9,7 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-//TC : O(2N) Every Node will be traversed approx 2 times, once for establishing the temporary link and once for reverting it
+//TC : O(3N) Every Node will be traversed approx 3 times, once for traversing the tree,once for establishing the temporary link and once for reverting it
 //SC : O(1)
 class Solution {
 public:
