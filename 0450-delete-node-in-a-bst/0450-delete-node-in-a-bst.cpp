@@ -59,9 +59,10 @@ public:
             //If node has both left and right then choose the minimum of right subtree or maximum of left subtree
             
             TreeNode* p=findMin(root->right);
-            root->val=p->val;
-            root->right=deleteNode(root->right,p->val);
-            return root;
+            // root->val=p->val;
+            // root->right=deleteNode(root->right,p->val);
+            p->left=root->left;
+            return root->right;
         }
     }
 };
