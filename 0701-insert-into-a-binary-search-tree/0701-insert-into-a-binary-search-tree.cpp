@@ -9,6 +9,8 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+//TC : O(log2N)
+//SC : O(1)
 class Solution {
 public:
     TreeNode* insertIntoBST(TreeNode* root, int val) {
