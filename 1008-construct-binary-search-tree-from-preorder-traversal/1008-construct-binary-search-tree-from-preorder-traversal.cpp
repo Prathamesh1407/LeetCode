@@ -15,17 +15,26 @@ class Solution {
         if(ind>=pre.size()) return NULL;
         
         if(pre[ind]>maxi || pre[ind]<mini) return NULL;
-                TreeNode* root=new TreeNode(pre[ind++]);
-                root->left=solve(pre,mini,root->val,ind);
-                root->right=solve(pre,root->val,maxi,ind);
-                return root;
+        TreeNode* root=new TreeNode(pre[ind++]);
+        root->left=solve(pre,mini,root->val,ind);
+        root->right=solve(pre,root->val,maxi,ind);
+        return root;       
+    }
+    TreeNode* solve(vector<int>&pre,int maxi,int &ind)
+    {
+        if(ind>=pre.size() || pre[ind]>maxi) return NULL;
         
-        return NULL;
-        
+        TreeNode* root=new TreeNode(pre[ind++]);
+        root->left=solve(pre,root->val,ind);
+        root->right=solve(pre,maxi,ind);
+        return root;       
     }
 public:
     TreeNode* bstFromPreorder(vector<int>& pre) {
         int ind=0;
-        return solve(pre,INT_MIN,INT_MAX,ind);
+        //return solve(pre,INT_MIN,INT_MAX,ind);
+        
+        //We can do it by passing only one upper bound
+        return solve(pre,INT_MAX,ind);
     }
 };
