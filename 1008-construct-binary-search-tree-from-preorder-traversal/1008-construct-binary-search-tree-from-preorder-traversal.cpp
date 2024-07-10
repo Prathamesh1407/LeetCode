@@ -34,6 +34,8 @@ public:
         int ind=0;
         //return solve(pre,INT_MIN,INT_MAX,ind);
         
+        //TC : O(3N)
+        //SC : O(N)
         //We can do it by passing only one upper bound
         return solve(pre,INT_MAX,ind);
     }
