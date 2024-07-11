@@ -10,30 +10,16 @@
  * };
  */
 class Solution {
-    void merge(TreeNode* root1,TreeNode* root2,TreeNode* &root3)
-    {
-        if(!root1 && !root2) return;
-        else if(root1==NULL)
-        {
-            root3=new TreeNode(root2->val,root2->left,root2->right);
-            return;
-        }
-        else if(root2==NULL)
-        {
-            root3=new TreeNode(root1->val,root1->left,root1->right);
-            return;
-        }
-        int value=root1->val+root2->val;
-        root3=new TreeNode(value);
-        merge(root1->left,root2->left,root3->left);
-        merge(root1->right,root2->right,root3->right);
-    }
 public:
     TreeNode* mergeTrees(TreeNode* root1, TreeNode* root2) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        TreeNode* root3=NULL;
-        merge(root1,root2,root3);
-        return root3;
+        //If any one of the is NULL return other node
+        if(root1==NULL) return root2;
+        if(root2==NULL) return root1;
+        
+        //Both the tree has that side node
+        root1->val+=root2->val;
+        root1->left=mergeTrees(root1->left,root2->left);
+        root1->right=mergeTrees(root1->right,root2->right);
+        return root1;
     }
 };
