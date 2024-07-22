@@ -1,3 +1,5 @@
+//TC : O(N * log2(sum-maxi))
+//SC : O(1)
 class Solution {
     int requiredDays(vector<int>& weights, int capacity)
     {
