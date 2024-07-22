@@ -1,3 +1,5 @@
+//TC:O(N * log2(maxi-mini))
+//SC : O(1)
 class Solution {
     bool possible(vector<int>&bloomDay,int day,int m,int k)
     {
