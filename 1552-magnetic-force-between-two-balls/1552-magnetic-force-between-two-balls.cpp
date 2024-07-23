@@ -1,3 +1,4 @@
+//TC:O(log2(maxi-mini) * N + NlogN for sorting)
 class Solution {
     bool canPlaceCows(vector<int>& position,int maxDistance,int m)
     {
@@ -28,6 +29,7 @@ public:
             
             if(canPlaceCows(position,mid,m))
             {
+                //If we can place cows we will look for more distance are we able to place it or not
                 low=mid+1;
             }
             else high=mid-1;
