@@ -1,3 +1,4 @@
+//TC:O(log2(sum-maxi)*N)
 int studentsCount(vector<int>& arr, int n, int m,int maxPages)
 {
     int studentsCount=1,sum=0;
