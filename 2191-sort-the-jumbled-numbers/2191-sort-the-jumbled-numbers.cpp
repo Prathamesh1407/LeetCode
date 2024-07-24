@@ -10,6 +10,8 @@ class Solution {
             return a.second.second<b.second.second;
         }
     }
+    //TC : O(N * (Avg length of digits) + N logN + N)
+    //SC : O(3*N + N)
 public:
     vector<int> sortJumbled(vector<int>& mapping, vector<int>& nums) {
         vector<pair<int,pair<int,int>>>v;
