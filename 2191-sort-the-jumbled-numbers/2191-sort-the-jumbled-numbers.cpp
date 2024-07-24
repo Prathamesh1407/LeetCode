@@ -14,6 +14,8 @@ class Solution {
     //SC : O(3*N + N)
 public:
     vector<int> sortJumbled(vector<int>& mapping, vector<int>& nums) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         vector<pair<int,pair<int,int>>>v;
         int i=0;
         for(auto val:nums)
