@@ -35,6 +35,43 @@ public:
         
         //Sliding Window Technique
         
+        //TC: O(N + N*26)
+        //SC : O(26)
+        /*
+        int left=0,right=0,res=0,maxFreq=0;
+        unordered_map<int,int>m;
+        while(right<s.length())
+        {
+            m[s[right]-'A']++;
+            
+            maxFreq=max(maxFreq,m[s[right]-'A']);
+            
+            //The substring contains more than K diffrent
+            while((right-left+1)-maxFreq>k)
+            {
+                m[s[left]-'A']--;
+                maxFreq=0;
+                //Update the maxFreq After removing letter
+                for(auto val:m)
+                {
+                    maxFreq=max(maxFreq,val.second);
+                }
+                left++;
+            }
+            if((right-left+1)-maxFreq<=k) res=max(res,right-left+1);
+            right++;
+        }
+        return res;
+        */
+        
+        //Optimization to above approach
+        
+        //We were calculating The maximum frequency. after We are encountered with the different element that is greater than K. So instead of doing that. previously we were cancelling the. Element and after that again calculating the. Maximum frequency. But here the maximum frequency will decrease and overall answer will decrease but we want to maximise our answer so rather than decreasing the maximum frequency. We will keep it as it is and if previously if we are removing the letters till satisfies the condition , but now we will remove only one letter and will increase the further window and if condition satisfied then and then only will update the max length
+        
+        
+        //TC: O(N + N*26)
+        //SC : O(26)
+        
         int left=0,right=0,res=0,maxFreq=0;
         unordered_map<int,int>m;
         while(right<s.length())
@@ -47,12 +84,6 @@ public:
             if((right-left+1)-maxFreq>k)
             {
                 m[s[left]-'A']--;
-                maxFreq=0;
-                //Update the maxFreq After removing letter
-                for(auto val:m)
-                {
-                    maxFreq=max(maxFreq,val.second);
-                }
                 left++;
             }
             if((right-left+1)-maxFreq<=k) res=max(res,right-left+1);
