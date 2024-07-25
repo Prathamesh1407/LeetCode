@@ -2,6 +2,8 @@ class Solution {
 public:
     int characterReplacement(string s, int k) {
         //Lets generate all the substrings length of substring - maxfreq element in that substring will tell us how many letters we can change
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int n=s.length(),res=0;
         for(int i=0;i<n;i++)
         {
