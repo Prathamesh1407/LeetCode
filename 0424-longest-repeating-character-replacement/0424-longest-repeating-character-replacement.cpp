@@ -44,7 +44,7 @@ public:
             maxFreq=max(maxFreq,m[s[right]-'A']);
             
             //The substring contains more than K diffrent
-            while((right-left+1)-maxFreq>k)
+            if((right-left+1)-maxFreq>k)
             {
                 m[s[left]-'A']--;
                 maxFreq=0;
@@ -55,7 +55,7 @@ public:
                 }
                 left++;
             }
-            res=max(res,right-left+1);
+            if((right-left+1)-maxFreq<=k) res=max(res,right-left+1);
             right++;
         }
         return res;
