@@ -12,7 +12,7 @@ public:
             }
             if(initialExperience<=experience[i])
             {
-                int diff=experience[i]-initialExperience+1;
+                int diff=experience[i]-initialExperience+1; //because strictly greater
                 initialExperience+=diff;
                 ans+=diff;
             }
