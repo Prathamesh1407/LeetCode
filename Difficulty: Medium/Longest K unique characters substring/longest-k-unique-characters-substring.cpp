@@ -30,6 +30,25 @@ class Solution{
         right++;
     }
     return res?res:-1;
+
+    //TC : O(N + log(256))
+    //SC : O(256)
+    int left=0,right=0,res=0;
+    unordered_map<char,int>m;
+    while(right<s.length())
+    {
+        m[s[right]]++;
+        
+        if(m.size()>k)
+        {
+            m[s[left]]--;
+            if(m[s[left]]==0) m.erase(s[left]);
+            left++;
+        }
+        if(m.size()==k) res=max(res,right-left+1);
+        right++;
+    }
+    return res?res:-1;
     
     }
 };
