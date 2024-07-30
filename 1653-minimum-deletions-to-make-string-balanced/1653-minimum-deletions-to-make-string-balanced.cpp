@@ -55,6 +55,7 @@ public:
         //SC : O(N)
         //Instead of taking 2 vectors just take only 1 because at the 3rd loop we are starting from the start only so there is no need to precompute the B 
         
+        /*
         int n=s.length(),ans=INT_MAX;
         vector<int>rightA(n);
         
@@ -72,7 +73,28 @@ public:
             if(s[i]=='b') countB++;
         }
         return ans;
+        */
         
+        //TC : O(2N)
+        //SC : O(1)
+        //Instead of taking also the rightA array compute the count of all A as we are start from 0 if A occurs just reducing 1 A we will get  how many A are there at right side
+        
+        int n=s.length(),ans=INT_MAX;
+
+        int countB=0;
+        int countA=0;
+        for(int i=0;i<n;i++)
+        {
+            if(s[i]=='a') countA++;
+        }
+        
+        for(int i=0;i<n;i++)
+        {
+            if(s[i]=='a') countA--;
+            ans=min(ans,countB+countA);
+            if(s[i]=='b') countB++;
+        }
+        return ans;
         
     }
 };
