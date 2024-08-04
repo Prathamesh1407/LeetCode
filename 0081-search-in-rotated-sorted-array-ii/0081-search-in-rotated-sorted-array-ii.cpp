@@ -5,7 +5,7 @@ public:
         
         //A2: Binary Search
         
-        //Let's take a array 1 0 1 1 1 mid will be 2 but nums low = high=mid so just reduce the search space by 1 low -- high -- and apply the same logic of 1 Q so you could be able to find the true sorted portion
+        //Let's take a array 1 0 1 1 1 mid will be 2 but nums low = high=mid so just reduce the search space by 1 low ++ high -- and apply the same logic of 1 Q so you could be able to find the true sorted portion
         
         int low=0,high=nums.size()-1,mid;
         
