@@ -2,7 +2,7 @@ class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& a, int key) {
         
-        //TC : O(N * log2(M))
+        //TC : O(N + log2(M))
         
         //A1: every row is sorted so check the 1st and last element of each row by comparing target and if satisfies apply binary search on that row
         
