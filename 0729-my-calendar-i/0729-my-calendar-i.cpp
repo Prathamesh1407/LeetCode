@@ -2,7 +2,6 @@ class MyCalendar {
 public:
     set<pair<int,int>>s;
     MyCalendar() {
-        
     }
     
     bool book(int start, int end) {
