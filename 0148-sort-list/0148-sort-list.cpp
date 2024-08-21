@@ -42,17 +42,13 @@ class Solution {
                 right=right->next;
             }
         }
-        while(left)
+        if(left)
         {
-            ansTail->next=new ListNode(left->val);
-            ansTail=ansTail->next;
-            left=left->next;
+            ansTail->next=left;
         }
-        while(right)
+        if(right)
         {
-            ansTail->next=new ListNode(right->val);
-            ansTail=ansTail->next;
-            right=right->next;
+            ansTail->next=right;
         }
         
         return ansHead->next;
