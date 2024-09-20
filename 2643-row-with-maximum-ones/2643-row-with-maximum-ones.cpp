@@ -19,7 +19,7 @@ class Solution {
     }
 public:
     vector<int> rowAndMaximumOnes(vector<vector<int>>& mat) {
-        //If rows is sorted
+        //If rows are sorted
         int maxRowsOnesCount=0,index=0;
         
         int n=mat.size(),m=mat[0].size();
