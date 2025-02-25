@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Prathamesh1407/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1480-movie-rating](https://github.com/Prathamesh1407/LeetCode/tree/master/1480-movie-rating) |
 | [3530-odd-and-even-transactions](https://github.com/Prathamesh1407/LeetCode/tree/master/3530-odd-and-even-transactions) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Prathamesh1407/LeetCode/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Prathamesh1407/LeetCode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Prathamesh1407/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
