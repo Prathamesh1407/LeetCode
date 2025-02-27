@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1480-movie-rating](https://github.com/Prathamesh1407/LeetCode/tree/master/1480-movie-rating) |
 | [3530-odd-and-even-transactions](https://github.com/Prathamesh1407/LeetCode/tree/master/3530-odd-and-even-transactions) |
 | [3767-find-students-who-improved](https://github.com/Prathamesh1407/LeetCode/tree/master/3767-find-students-who-improved) |
+| [3782-find-valid-emails](https://github.com/Prathamesh1407/LeetCode/tree/master/3782-find-valid-emails) |
 ## Array
 |  |
 | ------- |
