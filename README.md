@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Prathamesh1407/LeetCode/tree/master/0176-second-highest-salary) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Prathamesh1407/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/Prathamesh1407/LeetCode/tree/master/0626-exchange-seats) |
 | [1268-market-analysis-i](https://github.com/Prathamesh1407/LeetCode/tree/master/1268-market-analysis-i) |
