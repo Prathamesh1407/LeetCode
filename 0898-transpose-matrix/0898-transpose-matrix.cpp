@@ -12,5 +12,17 @@ public:
         }
 
         return mat;
+
+
+        // Follow up Q what if input is always square matrix
+        /*
+            for(int i=0;i<n;i++)
+            {
+                for(int j=i+1;j<m;j++) //i+1 coz avoiding swapping swapped elements
+                {
+                    swap(mat[i][j],mat[j][i]);
+                }
+            }
+        */ 
     }
 };
