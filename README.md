@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0189-rotate-array](https://github.com/Prathamesh1407/LeetCode/tree/master/0189-rotate-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prathamesh1407/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Prathamesh1407/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Math
 |  |
 | ------- |
@@ -54,13 +55,19 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0049-group-anagrams](https://github.com/Prathamesh1407/LeetCode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/0389-find-the-difference) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Prathamesh1407/LeetCode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/0389-find-the-difference) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 <!---LeetCode Topics End-->
