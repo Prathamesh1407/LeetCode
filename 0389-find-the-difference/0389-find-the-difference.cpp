@@ -4,9 +4,10 @@ public:
         int XOR=0;
         for(int i=0;i<s.length();i++)
         {
-            XOR^=(int)s[i]^(int)t[i];
+            XOR^=s[i];
+            XOR^=t[i];
         }
-        XOR^=(int)t[t.length()-1];
+        XOR^=t[t.length()-1];
         return (char)XOR;
     }
 };
