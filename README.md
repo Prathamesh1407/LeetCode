@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Prathamesh1407/LeetCode/tree/master/0189-rotate-array) |
+| [1806-count-of-matches-in-tournament](https://github.com/Prathamesh1407/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+## Simulation
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/Prathamesh1407/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
