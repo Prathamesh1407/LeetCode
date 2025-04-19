@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0049-group-anagrams](https://github.com/Prathamesh1407/LeetCode/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/Prathamesh1407/LeetCode/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/Prathamesh1407/LeetCode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prathamesh1407/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Prathamesh1407/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0898-transpose-matrix](https://github.com/Prathamesh1407/LeetCode/tree/master/0898-transpose-matrix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Prathamesh1407/LeetCode/tree/master/0189-rotate-array) |
+| [0455-assign-cookies](https://github.com/Prathamesh1407/LeetCode/tree/master/0455-assign-cookies) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Prathamesh1407/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 ## Stack
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Prathamesh1407/LeetCode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prathamesh1407/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2756-buy-two-chocolates](https://github.com/Prathamesh1407/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## Sorting
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0049-group-anagrams](https://github.com/Prathamesh1407/LeetCode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/Prathamesh1407/LeetCode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prathamesh1407/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prathamesh1407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
