@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/Prathamesh1407/LeetCode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/0389-find-the-difference) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Prathamesh1407/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/Prathamesh1407/LeetCode/tree/master/1547-destination-city) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Prathamesh1407/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prathamesh1407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Prathamesh1407/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
