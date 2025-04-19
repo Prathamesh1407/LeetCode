@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Prathamesh1407/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/Prathamesh1407/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0455-assign-cookies](https://github.com/Prathamesh1407/LeetCode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prathamesh1407/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2756-buy-two-chocolates](https://github.com/Prathamesh1407/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prathamesh1407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/Prathamesh1407/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Monotonic Stack
 |  |
 | ------- |
