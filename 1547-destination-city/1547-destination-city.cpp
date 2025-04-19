@@ -12,10 +12,10 @@ public:
 
         while(m.find(str)!=m.end())
         {
-            ans=m[str];
+            //ans=m[str];
             str=m[str];
         }
 
-        return ans;
+        return str;
     }
 };
