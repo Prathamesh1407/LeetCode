@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1547-destination-city](https://github.com/Prathamesh1407/LeetCode/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prathamesh1407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Prathamesh1407/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0389-find-the-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/0389-find-the-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prathamesh1407/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prathamesh1407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
