@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0049-group-anagrams](https://github.com/Prathamesh1407/LeetCode/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/Prathamesh1407/LeetCode/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Prathamesh1407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Prathamesh1407/LeetCode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prathamesh1407/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Prathamesh1407/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Prathamesh1407/LeetCode/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Prathamesh1407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Prathamesh1407/LeetCode/tree/master/0455-assign-cookies) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Prathamesh1407/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prathamesh1407/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Prathamesh1407/LeetCode/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/Prathamesh1407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Prathamesh1407/LeetCode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prathamesh1407/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Prathamesh1407/LeetCode/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/Prathamesh1407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh1407/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/0389-find-the-difference) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -137,4 +141,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Prathamesh1407/LeetCode/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Prathamesh1407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
