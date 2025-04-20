@@ -21,7 +21,7 @@ public:
         return ans*maxCount;
         */
 
-        //A2: Two pass solution
+        //A2: Single pass solution
         
         // Keep track of maximum frequency and keep counting how many elements are of same frequency and if find it greater than max freq repeat the process
         int maxFreq=0,count=1;
