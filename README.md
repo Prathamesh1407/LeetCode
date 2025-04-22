@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0189-rotate-array](https://github.com/Prathamesh1407/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Prathamesh1407/LeetCode/tree/master/0231-power-of-two) |
+| [1236-n-th-tribonacci-number](https://github.com/Prathamesh1407/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/Prathamesh1407/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 ## Two Pointers
 |  |
@@ -168,4 +169,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Prathamesh1407/LeetCode/tree/master/0404-sum-of-left-leaves) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Prathamesh1407/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Prathamesh1407/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
