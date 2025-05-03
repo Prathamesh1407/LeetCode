@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Prathamesh1407/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0898-transpose-matrix](https://github.com/Prathamesh1407/LeetCode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prathamesh1407/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1044-find-common-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1547-destination-city](https://github.com/Prathamesh1407/LeetCode/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prathamesh1407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh1407/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Prathamesh1407/LeetCode/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1547-destination-city](https://github.com/Prathamesh1407/LeetCode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/Prathamesh1407/LeetCode/tree/master/1619-path-crossing) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh1407/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Prathamesh1407/LeetCode/tree/master/0409-longest-palindrome) |
+| [1044-find-common-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Prathamesh1407/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/Prathamesh1407/LeetCode/tree/master/1547-destination-city) |
