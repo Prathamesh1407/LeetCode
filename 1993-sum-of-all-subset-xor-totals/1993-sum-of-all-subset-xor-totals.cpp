@@ -1,4 +1,21 @@
 class Solution {
+
+    int solve2(vector<int>&nums,int ind,int XOR)
+    {
+        if(ind==nums.size()) 
+        {
+            return XOR;
+        }
+        //Pick
+        int include=solve2(nums,ind+1,XOR^nums[ind]);
+
+        //Not Pick
+        int exclude=solve2(nums,ind+1,XOR);
+
+        return include+exclude;
+    }
+
+
     void solve(vector<int>& nums,int ind,vector<vector<int>>&subset,vector<int>&currSub)
     {
         if(ind==nums.size()) 
@@ -17,6 +34,7 @@ class Solution {
     }
 public:
     int subsetXORSum(vector<int>& nums) {
+        /*
         //A1: Generate all the subset and add them TC: O(2^n * Avg L of subset)
 
         vector<vector<int>>subset;
@@ -33,5 +51,10 @@ public:
             ans+=XOR;
         }
         return ans;
+        */
+
+        //A2: Why to store the subsets,direct calculate the xor while recursion TC: O(2^n)
+
+        return solve2(nums,0,0);
     }
 };
