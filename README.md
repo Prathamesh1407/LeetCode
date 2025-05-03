@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prathamesh1407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Prathamesh1407/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Prathamesh1407/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh1407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prathamesh1407/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Prathamesh1407/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0231-power-of-two](https://github.com/Prathamesh1407/LeetCode/tree/master/0231-power-of-two) |
 | [1236-n-th-tribonacci-number](https://github.com/Prathamesh1407/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/Prathamesh1407/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh1407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0231-power-of-two](https://github.com/Prathamesh1407/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/0389-find-the-difference) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh1407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Counting
 |  |
 | ------- |
@@ -189,4 +192,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/Prathamesh1407/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh1407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh1407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh1407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
