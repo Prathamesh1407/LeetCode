@@ -166,10 +166,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Prathamesh1407/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Prathamesh1407/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Prathamesh1407/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
