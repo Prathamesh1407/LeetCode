@@ -56,5 +56,20 @@ public:
         //A2: Why to store the subsets,direct calculate the xor while recursion TC: O(2^n)
 
         return solve2(nums,0,0);
+
+        //A3: TC:O(n)
+
+        //Observe the pattern take the OR of all elements and append the n-1 zero 
+
+        /*
+            int OR=0,n=nums.size();
+            for(auto val:nums)
+            {
+                OR|=val;
+            }
+
+            //append n-1 zeros
+            return OR<<(n-1);
+        */
     }
 };
