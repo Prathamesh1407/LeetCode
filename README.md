@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0189-rotate-array](https://github.com/Prathamesh1407/LeetCode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh1407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Prathamesh1407/LeetCode/tree/master/0455-assign-cookies) |
+| [0500-keyboard-row](https://github.com/Prathamesh1407/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Prathamesh1407/LeetCode/tree/master/0506-relative-ranks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prathamesh1407/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Prathamesh1407/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh1407/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Prathamesh1407/LeetCode/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/Prathamesh1407/LeetCode/tree/master/0500-keyboard-row) |
 | [1044-find-common-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1547-destination-city](https://github.com/Prathamesh1407/LeetCode/tree/master/1547-destination-city) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh1407/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Prathamesh1407/LeetCode/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/Prathamesh1407/LeetCode/tree/master/0500-keyboard-row) |
 | [1044-find-common-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Prathamesh1407/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
