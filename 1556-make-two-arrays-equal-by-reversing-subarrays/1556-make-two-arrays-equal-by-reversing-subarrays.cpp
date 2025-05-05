@@ -16,7 +16,7 @@ public:
         return 1;
         */
 
-        //A2: TC:O(2*disntict(m+n)) SC:O(disntict(m+n))
+        //A2: TC:O(disntict(m+n)) SC:O(disntict(m))
 
         unordered_map<int,int>m;
         for(auto val:target) m[val]++;
