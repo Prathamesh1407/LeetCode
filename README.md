@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Prathamesh1407/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh1407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Prathamesh1407/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prathamesh1407/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Prathamesh1407/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Prathamesh1407/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1642-water-bottles](https://github.com/Prathamesh1407/LeetCode/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Prathamesh1407/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1806-count-of-matches-in-tournament](https://github.com/Prathamesh1407/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Prathamesh1407/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prathamesh1407/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2645-pass-the-pillow](https://github.com/Prathamesh1407/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Matrix
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0898-transpose-matrix](https://github.com/Prathamesh1407/LeetCode/tree/master/0898-transpose-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Prathamesh1407/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Prathamesh1407/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Prathamesh1407/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
