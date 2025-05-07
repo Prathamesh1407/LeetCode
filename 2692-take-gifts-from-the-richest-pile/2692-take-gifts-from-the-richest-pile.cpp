@@ -7,14 +7,14 @@ public:
         for(auto val:gifts) initialSum+=val;
         while(k--)
         {
-            int maxEl=pq.top();
-            pq.pop();
+            int maxEl=pq.top();//O(1)
+            pq.pop();//O(log n)
             int currSqrt=sqrt(maxEl);
 
             sum+=(maxEl-currSqrt);
-            pq.push(currSqrt);
+            pq.push(currSqrt);//O(log n)
         }
-        cout<<initialSum<<" "<<sum;
+        
         return initialSum-sum;
     }
 };
