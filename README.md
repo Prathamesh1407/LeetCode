@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1755-defuse-the-bomb](https://github.com/Prathamesh1407/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prathamesh1407/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Prathamesh1407/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Prathamesh1407/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh1407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathamesh1407/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
