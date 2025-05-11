@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1720-crawler-log-folder](https://github.com/Prathamesh1407/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Prathamesh1407/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prathamesh1407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Prathamesh1407/LeetCode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Prathamesh1407/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Prathamesh1407/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prathamesh1407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Prathamesh1407/LeetCode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2645-pass-the-pillow](https://github.com/Prathamesh1407/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Prathamesh1407/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prathamesh1407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Prathamesh1407/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prathamesh1407/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
