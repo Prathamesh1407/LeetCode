@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Prathamesh1407/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Prathamesh1407/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Prathamesh1407/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prathamesh1407/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prathamesh1407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Prathamesh1407/LeetCode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
@@ -278,4 +279,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/Prathamesh1407/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prathamesh1407/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
