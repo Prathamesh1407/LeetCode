@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prathamesh1407/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3429-special-array-i](https://github.com/Prathamesh1407/LeetCode/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prathamesh1407/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Prathamesh1407/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Prathamesh1407/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Prathamesh1407/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prathamesh1407/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Prathamesh1407/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
