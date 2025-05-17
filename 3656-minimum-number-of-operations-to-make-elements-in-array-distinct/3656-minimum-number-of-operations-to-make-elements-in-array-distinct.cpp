@@ -7,7 +7,7 @@ public:
         {
             if(v[nums[i]]!=-1)
             {
-                return (i+1)%3!=0?((i+1)/3)+1:((i+1)/3);
+                return ceil((i+1)/3.0);
             }
             else v[nums[i]]=i;
         }
