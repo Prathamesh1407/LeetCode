@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0137-single-number-ii](https://github.com/Prathamesh1407/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Prathamesh1407/LeetCode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Prathamesh1407/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Prathamesh1407/LeetCode/tree/master/0476-number-complement) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Prathamesh1407/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Prathamesh1407/LeetCode/tree/master/0338-counting-bits) |
 | [1236-n-th-tribonacci-number](https://github.com/Prathamesh1407/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
