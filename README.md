@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Prathamesh1407/LeetCode/tree/master/0049-group-anagrams) |
+| [0137-single-number-ii](https://github.com/Prathamesh1407/LeetCode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Prathamesh1407/LeetCode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh1407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Prathamesh1407/LeetCode/tree/master/0455-assign-cookies) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Prathamesh1407/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Prathamesh1407/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Prathamesh1407/LeetCode/tree/master/0476-number-complement) |
