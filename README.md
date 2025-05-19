@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Prathamesh1407/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prathamesh1407/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Prathamesh1407/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prathamesh1407/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-destination-city](https://github.com/Prathamesh1407/LeetCode/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Prathamesh1407/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0506-relative-ranks](https://github.com/Prathamesh1407/LeetCode/tree/master/0506-relative-ranks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prathamesh1407/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prathamesh1407/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Prathamesh1407/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prathamesh1407/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Prathamesh1407/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prathamesh1407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0476-number-complement](https://github.com/Prathamesh1407/LeetCode/tree/master/0476-number-complement) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Prathamesh1407/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathamesh1407/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Prathamesh1407/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prathamesh1407/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh1407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh1407/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Prathamesh1407/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prathamesh1407/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Prathamesh1407/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
