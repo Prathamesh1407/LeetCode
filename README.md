@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2195-time-needed-to-buy-tickets](https://github.com/Prathamesh1407/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Prathamesh1407/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Prathamesh1407/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Prathamesh1407/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/Prathamesh1407/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Prathamesh1407/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prathamesh1407/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh1407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Prathamesh1407/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Counting
 |  |
 | ------- |
