@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2048-build-array-from-permutation](https://github.com/Prathamesh1407/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Prathamesh1407/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prathamesh1407/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2211-k-radius-subarray-averages](https://github.com/Prathamesh1407/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Prathamesh1407/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Prathamesh1407/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -322,5 +323,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prathamesh1407/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prathamesh1407/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/Prathamesh1407/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2211-k-radius-subarray-averages](https://github.com/Prathamesh1407/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prathamesh1407/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
