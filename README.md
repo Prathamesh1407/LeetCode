@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prathamesh1407/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Prathamesh1407/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/Prathamesh1407/LeetCode/tree/master/1547-destination-city) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prathamesh1407/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/Prathamesh1407/LeetCode/tree/master/1619-path-crossing) |
 | [1720-crawler-log-folder](https://github.com/Prathamesh1407/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0076-minimum-window-substring](https://github.com/Prathamesh1407/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prathamesh1407/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prathamesh1407/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prathamesh1407/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/Prathamesh1407/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prathamesh1407/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
