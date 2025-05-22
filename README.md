@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1786-count-the-number-of-consistent-strings](https://github.com/Prathamesh1407/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Prathamesh1407/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Prathamesh1407/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Prathamesh1407/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Prathamesh1407/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prathamesh1407/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prathamesh1407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Prathamesh1407/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Prathamesh1407/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Prathamesh1407/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Queue
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0209-minimum-size-subarray-sum](https://github.com/Prathamesh1407/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh1407/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prathamesh1407/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Prathamesh1407/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Tree
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prathamesh1407/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prathamesh1407/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Prathamesh1407/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Prathamesh1407/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2211-k-radius-subarray-averages](https://github.com/Prathamesh1407/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prathamesh1407/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
