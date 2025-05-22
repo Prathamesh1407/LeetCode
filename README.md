@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Prathamesh1407/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Prathamesh1407/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Prathamesh1407/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prathamesh1407/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Prathamesh1407/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1720-crawler-log-folder](https://github.com/Prathamesh1407/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1755-defuse-the-bomb](https://github.com/Prathamesh1407/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0338-counting-bits](https://github.com/Prathamesh1407/LeetCode/tree/master/0338-counting-bits) |
 | [1236-n-th-tribonacci-number](https://github.com/Prathamesh1407/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prathamesh1407/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0209-minimum-size-subarray-sum](https://github.com/Prathamesh1407/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prathamesh1407/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prathamesh1407/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prathamesh1407/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Prathamesh1407/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2211-k-radius-subarray-averages](https://github.com/Prathamesh1407/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prathamesh1407/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
