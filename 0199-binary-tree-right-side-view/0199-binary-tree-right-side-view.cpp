@@ -10,9 +10,19 @@
  * };
  */
 class Solution {
+    void preOrder(TreeNode* root,int level,vector<int>&ans)
+    {
+        if(root==NULL) return;
+
+        if(ans.size()==level) ans.push_back(root->val);
+
+        preOrder(root->right,level+1,ans);
+        preOrder(root->left,level+1,ans);
+    }
 public:
     vector<int> rightSideView(TreeNode* root) {
         //A1:BFS
+        /*
         if(root==NULL) return {};
     
         vector<int>ans;
@@ -34,6 +44,14 @@ public:
             //Now here the last element in row will be in the variable node
             ans.push_back(node->val);
         }
+        return ans;
+        */
+
+        //A2:DFS
+        //Here we will traverse level by level and will call the right side first if it is the first element of that level push it
+        if(root==NULL) return {};
+        vector<int>ans;       
+        preOrder(root,0,ans);
         return ans;
     }
 };
