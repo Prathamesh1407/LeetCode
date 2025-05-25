@@ -9,20 +9,31 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-//TC : O(N)
-//SC : O(H)
 class Solution {
-    void solve(TreeNode* root,vector<int>&ans,int level)
-    {
-        if(root==NULL) return;
-        if(ans.size()==level) ans.push_back(root->val);
-        solve(root->right,ans,level+1); //First preference will be given to the right side and if the Q is left view then 1st call will be of left
-        solve(root->left,ans,level+1);
-    }
 public:
     vector<int> rightSideView(TreeNode* root) {
+        //A1:BFS
+        if(root==NULL) return {};
+    
         vector<int>ans;
-        solve(root,ans,0);
+        queue<TreeNode*>q;
+        q.push(root);
+
+        while(!q.empty())
+        {
+            //take a size of queue that much element will be in the one level and last elemet will be our answer
+            int qSize=q.size();
+            TreeNode* node=NULL;
+            while(qSize--)
+            {
+                node=q.front();
+                q.pop();
+                if(node->left) q.push(node->left);
+                if(node->right) q.push(node->right);
+            }
+            //Now here the last element in row will be in the variable node
+            ans.push_back(node->val);
+        }
         return ans;
     }
 };
