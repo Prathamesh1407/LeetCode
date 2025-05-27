@@ -10,15 +10,17 @@
  * };
  */
 class Solution {
-    int dfs(TreeNode* root,vector<int>&ans)
+    void dfs(TreeNode* root,vector<int>&ans)
     {
-        if(root==NULL) return 0;
+        if(root==NULL) return;
 
-        int lh=dfs(root->left,ans);
-        int rh=dfs(root->right,ans);
-
-        if(1+max(lh,rh)==1) ans.push_back(root->val);
-        return 1+max(lh,rh);
+        if(root->left==NULL && root->right==NULL) 
+        {
+            ans.push_back(root->val);
+            return;
+        }
+        dfs(root->left,ans);
+        dfs(root->right,ans);
     }
 public:
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
