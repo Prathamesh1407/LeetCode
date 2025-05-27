@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1019-squares-of-a-sorted-array](https://github.com/Prathamesh1407/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Prathamesh1407/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Prathamesh1407/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Prathamesh1407/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0500-keyboard-row](https://github.com/Prathamesh1407/LeetCode/tree/master/0500-keyboard-row) |
 | [1044-find-common-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Prathamesh1407/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Prathamesh1407/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Prathamesh1407/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Prathamesh1407/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/Prathamesh1407/LeetCode/tree/master/1500-count-largest-group) |
@@ -278,12 +280,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh1407/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Prathamesh1407/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Prathamesh1407/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh1407/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Prathamesh1407/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Prathamesh1407/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh1407/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Prathamesh1407/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Prathamesh1407/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Dynamic Programming
 |  |
