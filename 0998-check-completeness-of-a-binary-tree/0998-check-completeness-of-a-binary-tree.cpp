@@ -26,15 +26,17 @@ public:
                 q.pop();
                 if(node->left==NULL && node->right==NULL) 
                 {
-                    isNull=1;
+                    isNull=1; //if another subtree is there 
                     continue;
                 }
-                
+                if(isNull==1) return 0;
+
                 if(node->left!=NULL) q.push(node->left);
                 else isNull=1;
 
-                if(node->right!=NULL && isNull==0) q.push(node->right);
-                else if(isNull==1) return 0;
+                
+                if(node->right!=NULL && isNull!=1) q.push(node->right);
+                else if(isNull) return 0;
                 else isNull=1;
             }
             //isNull=0;
