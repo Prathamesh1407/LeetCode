@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Prathamesh1407/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Prathamesh1407/LeetCode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh1407/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Prathamesh1407/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Prathamesh1407/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Prathamesh1407/LeetCode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh1407/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Prathamesh1407/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prathamesh1407/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Prathamesh1407/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Prathamesh1407/LeetCode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh1407/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Prathamesh1407/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Prathamesh1407/LeetCode/tree/master/0113-path-sum-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh1407/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
