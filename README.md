@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Prathamesh1407/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prathamesh1407/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0904-leaf-similar-trees](https://github.com/Prathamesh1407/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Prathamesh1407/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prathamesh1407/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Prathamesh1407/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Prathamesh1407/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Dynamic Programming
 |  |
