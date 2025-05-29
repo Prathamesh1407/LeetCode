@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Prathamesh1407/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prathamesh1407/LeetCode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh1407/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Prathamesh1407/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prathamesh1407/LeetCode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh1407/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Prathamesh1407/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh1407/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Prathamesh1407/LeetCode/tree/master/0404-sum-of-left-leaves) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Prathamesh1407/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prathamesh1407/LeetCode/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh1407/LeetCode/tree/master/0199-binary-tree-right-side-view) |
