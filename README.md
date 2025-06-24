@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Prathamesh1407/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Prathamesh1407/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prathamesh1407/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh1407/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3429-special-array-i](https://github.com/Prathamesh1407/LeetCode/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Prathamesh1407/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Prathamesh1407/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Prathamesh1407/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Prathamesh1407/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prathamesh1407/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh1407/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Prathamesh1407/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Prathamesh1407/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Prathamesh1407/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prathamesh1407/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Prathamesh1407/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh1407/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3447-clear-digits](https://github.com/Prathamesh1407/LeetCode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
@@ -384,4 +387,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Prathamesh1407/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Prathamesh1407/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
